@@ -20,5 +20,26 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "경북대학교 중앙도서관": {
+      "style": "ribbon",
+      "wall": "#dfe0e3",
+      "glass": "#4a6680",
+      "frame": "#aab0b5"
+    },
+    "글로벌플라자": {
+      "style": "glass",
+      "wall": "#b0b5b8",
+      "glass": "#5f7486",
+      "frame": "#7d858c"
+    },
+    "경북대학교 대강당": {
+      "style": "glass",
+      "wall": "#4b4e52",
+      "glass": "#2c5566",
+      "frame": "#8a8f93"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
